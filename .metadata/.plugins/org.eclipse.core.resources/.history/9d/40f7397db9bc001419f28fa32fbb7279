@@ -81,7 +81,6 @@ public class SavingDepActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 				printStruk();
-				disconnect();
 			}
 		});
 
